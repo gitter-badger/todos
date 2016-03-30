@@ -1,3 +1,9 @@
+Todos = new Mongo.Collection('todos');
+
+
+
+
+
 if (Meteor.isClient) {
   
 }
