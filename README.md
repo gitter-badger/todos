@@ -1,4 +1,6 @@
 # todos
 Todos app in meteor
 
-ichanged readme
+i changed readme
+
+and added a line
